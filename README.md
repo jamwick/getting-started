@@ -12,7 +12,8 @@ Nachdem ihr euch eingetragen habt, sucht ihr euch dann ein Projekt aus an dem ih
  
 Da ich selbst Projekte noch nie administriert habe, wird das vermutlich mit etwaigen Bearbeitungsrechten am Anfang etwas holprig werden, aber ich tue mein Bestes.
  
- 
+Änderungen nur mit neuem Branch vornehmen!
+
 Grüße
 
 Christoph  
